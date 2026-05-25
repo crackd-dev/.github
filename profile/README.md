@@ -6,7 +6,7 @@
 
 **Screen for the engineers who run AI — not the ones it runs.**
 
-[**Try the demo →**](https://iscracked.com) &nbsp;·&nbsp; [crackd.dev](https://crackd.dev) &nbsp;·&nbsp; [@crackd](https://x.com/crackd)
+[**Try the demo →**](https://iscracked.com) &nbsp;·&nbsp; [crackd.dev](https://crackd.dev) &nbsp;·&nbsp; [@crackd.dev](https://x.com/crackd-dev)
 
 </div>
 
